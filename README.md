@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iiisunny
-- 👀 I’m interested in Java / Python
-- 🌱 I’m currently learning Java / Python
+- 👀 I’m interested in Go / Python
+- 🌱 I’m currently learning Go / Python
